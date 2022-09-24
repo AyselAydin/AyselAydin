@@ -22,5 +22,3 @@
 <a href="https://medium.com/@ayselaydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="30" /></a>
 <a href="https://www.instagram.com/ayselaydin.py/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" /></a>
 </p>
-
-<p> Python Eğitimi </p>
